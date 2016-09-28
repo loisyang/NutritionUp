@@ -259,7 +259,7 @@ s.Color_Selector.onTouchEnd ->
 		s.Food_Nutrient_Blueberry_Muffin.y = 0
 		s.Food_Nutrient_Blueberry_Muffin.scrollVertical = true
 		s.Food_Nutrient_Blueberry_Muffin.scrollHorizontal = false
-		s.Food_Nutrient_Blueberry_Muffin.height = 2128
+		s.Food_Nutrient_Blueberry_Muffin.height = 2500
 		s.Food_Nutrient_Blueberry_Muffin.width = 750
 		s.Food_Nutrient_Blueberry_Muffin.superLayer = scrollFrame2.content
 	
@@ -361,3 +361,6 @@ s.Home_inactive.onTouchEnd ->
 	s.ScrollContent.height = 1794-39
 	s.ScrollContent.width = 750
 	s.ScrollContent.superLayer = scrollFrame.content
+
+
+

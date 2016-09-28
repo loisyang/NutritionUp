@@ -412,7 +412,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 427,
 											"y": 1549,
-											"width": 236,
+											"width": 233,
 											"height": 26
 										},
 										"visible": true,
@@ -424,7 +424,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 427,
 												"y": 1549,
-												"width": 236,
+												"width": 233,
 												"height": 26
 											}
 										},
@@ -439,7 +439,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 428,
 											"y": 1311,
-											"width": 246,
+											"width": 243,
 											"height": 26
 										},
 										"visible": true,
@@ -451,7 +451,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 428,
 												"y": 1311,
-												"width": 246,
+												"width": 243,
 												"height": 26
 											}
 										},
@@ -466,7 +466,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 428,
 											"y": 1430,
-											"width": 246,
+											"width": 241,
 											"height": 26
 										},
 										"visible": true,
@@ -478,7 +478,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 428,
 												"y": 1430,
-												"width": 246,
+												"width": 241,
 												"height": 26
 											}
 										},
@@ -630,9 +630,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "Group 5",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 107,
+									"x": 105,
 									"y": 1900,
-									"width": 546,
+									"width": 548,
 									"height": 28
 								},
 								"visible": true,
@@ -642,9 +642,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-Group_5-nuqzodbe.png",
 									"frame": {
-										"x": 107,
+										"x": 105,
 										"y": 1900,
-										"width": 546,
+										"width": 548,
 										"height": 28
 									}
 								},
@@ -686,7 +686,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"layerFrame": {
 									"x": 71,
 									"y": 1961,
-									"width": 584,
+									"width": 583,
 									"height": 31
 								},
 								"visible": true,
@@ -698,7 +698,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 									"frame": {
 										"x": 71,
 										"y": 1961,
-										"width": 584,
+										"width": 583,
 										"height": 31
 									}
 								},
@@ -743,7 +743,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 70,
 							"y": 700,
-							"width": 638,
+							"width": 636,
 							"height": 253
 						},
 						"visible": true,
@@ -755,7 +755,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 							"frame": {
 								"x": 70,
 								"y": 700,
-								"width": 638,
+								"width": 636,
 								"height": 253
 							}
 						},
@@ -769,7 +769,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"layerFrame": {
 									"x": 70,
 									"y": 765.9471624266143,
-									"width": 607,
+									"width": 606,
 									"height": 187
 								},
 								"visible": true,
@@ -786,7 +786,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 70,
 											"y": 924.8180039138942,
-											"width": 607,
+											"width": 606,
 											"height": 28
 										},
 										"visible": true,
@@ -798,7 +798,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 70,
 												"y": 924.8180039138942,
-												"width": 607,
+												"width": 606,
 												"height": 28
 											}
 										},
@@ -841,7 +841,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 70,
 											"y": 872.8180039138942,
-											"width": 593,
+											"width": 592,
 											"height": 27
 										},
 										"visible": true,
@@ -853,7 +853,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 70,
 												"y": 872.8180039138942,
-												"width": 593,
+												"width": 592,
 												"height": 27
 											}
 										},
@@ -951,7 +951,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 70,
 											"y": 765.8180039138942,
-											"width": 593,
+											"width": 592,
 											"height": 26
 										},
 										"visible": true,
@@ -963,7 +963,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 70,
 												"y": 765.8180039138942,
-												"width": 593,
+												"width": 592,
 												"height": 26
 											}
 										},
@@ -1010,7 +1010,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 67,
 							"y": 1007,
-							"width": 606,
+							"width": 605,
 							"height": 134
 						},
 						"visible": true,
@@ -1022,7 +1022,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 							"frame": {
 								"x": 67,
 								"y": 1007,
-								"width": 606,
+								"width": 605,
 								"height": 134
 							}
 						},
@@ -1036,7 +1036,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"layerFrame": {
 									"x": 67,
 									"y": 1059.3463796477495,
-									"width": 606,
+									"width": 605,
 									"height": 81
 								},
 								"visible": true,
@@ -1053,7 +1053,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 67,
 											"y": 1113.2387475538162,
-											"width": 605,
+											"width": 604,
 											"height": 27
 										},
 										"visible": true,
@@ -1065,7 +1065,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 67,
 												"y": 1113.2387475538162,
-												"width": 605,
+												"width": 604,
 												"height": 27
 											}
 										},
@@ -1108,7 +1108,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 71,
 											"y": 1059.2387475538162,
-											"width": 602,
+											"width": 601,
 											"height": 26
 										},
 										"visible": true,
@@ -1120,7 +1120,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 71,
 												"y": 1059.2387475538162,
-												"width": 602,
+												"width": 601,
 												"height": 26
 											}
 										},
@@ -1493,15 +1493,6 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"metadata": {
 							"opacity": 1
 						},
-						"image": {
-							"path": "images/Layer-Search_Bar_Active_Dark-nzldnei2.png",
-							"frame": {
-								"x": 16,
-								"y": 56,
-								"width": 715,
-								"height": 56
-							}
-						},
 						"children": [
 							{
 								"objectId": "053D75E4-3711-4C17-B087-3AE7ADB34C40",
@@ -1526,6 +1517,41 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"y": 56,
 										"width": 590,
 										"height": 56
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "8F8FD68D-67A2-4BCC-AB1D-F4BEBCB2F2A5",
+								"kind": "text",
+								"name": "Cancel",
+								"originalName": "Cancel",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 635,
+									"y": 70,
+									"width": 96,
+									"height": 26
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1,
+									"string": "Cancel",
+									"css": [
+										"/* Cancel: */",
+										"font-family: .SFNSDisplay-Regular;",
+										"font-size: 34px;",
+										"color: #000000;",
+										"letter-spacing: -0.82px;"
+									]
+								},
+								"image": {
+									"path": "images/Layer-Cancel-oey4rkq2.png",
+									"frame": {
+										"x": 635,
+										"y": 70,
+										"width": 96,
+										"height": 26
 									}
 								},
 								"children": []
@@ -1665,7 +1691,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 32,
 											"y": 400,
-											"width": 118,
+											"width": 116,
 											"height": 31
 										},
 										"visible": true,
@@ -1685,7 +1711,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 32,
 												"y": 400,
-												"width": 118,
+												"width": 116,
 												"height": 31
 											}
 										},
@@ -1856,7 +1882,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "Keys",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 21,
+									"x": 22,
 									"y": 948,
 									"width": 703,
 									"height": 352
@@ -1868,7 +1894,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-Keys-rei1rjhb.png",
 									"frame": {
-										"x": 21,
+										"x": 22,
 										"y": 948,
 										"width": 703,
 										"height": 352
@@ -2065,7 +2091,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"layerFrame": {
 											"x": 32,
 											"y": 727,
-											"width": 443,
+											"width": 433,
 											"height": 32
 										},
 										"visible": true,
@@ -2085,7 +2111,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 											"frame": {
 												"x": 32,
 												"y": 727,
-												"width": 443,
+												"width": 433,
 												"height": 32
 											}
 										},
@@ -3179,9 +3205,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "Recents Icon Group with Label - Active",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 422,
+									"x": 424,
 									"y": 139,
-									"width": 101,
+									"width": 98,
 									"height": 83
 								},
 								"visible": true,
@@ -3191,9 +3217,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-Recents_Icon_Group_with_Label_Active-muzgqjy0.png",
 									"frame": {
-										"x": 422,
+										"x": 424,
 										"y": 139,
-										"width": 101,
+										"width": 98,
 										"height": 83
 									}
 								},
@@ -3206,9 +3232,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "For You Icon Group with Label - Active",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 223,
+									"x": 225,
 									"y": 141,
-									"width": 113,
+									"width": 110,
 									"height": 81
 								},
 								"visible": true,
@@ -3218,9 +3244,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-For_You_Icon_Group_with_Label_Active-rtuxodg2.png",
 									"frame": {
-										"x": 223,
+										"x": 225,
 										"y": 141,
-										"width": 113,
+										"width": 110,
 										"height": 81
 									}
 								},
@@ -3233,9 +3259,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "Trends Icon Group with Label - Active",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 623,
+									"x": 624,
 									"y": 144,
-									"width": 84,
+									"width": 83,
 									"height": 78
 								},
 								"visible": true,
@@ -3245,9 +3271,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-Trends_Icon_Group_with_Label_Active-q0zbrkvg.png",
 									"frame": {
-										"x": 623,
+										"x": 624,
 										"y": 144,
-										"width": 84,
+										"width": 83,
 										"height": 78
 									}
 								},
@@ -3260,9 +3286,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"originalName": "Featured Icon Group with Label - Active",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 32,
+									"x": 33,
 									"y": 137,
-									"width": 109,
+									"width": 107,
 									"height": 85
 								},
 								"visible": true,
@@ -3272,9 +3298,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-Featured_Icon_Group_with_Label_Active-mjndrji5.png",
 									"frame": {
-										"x": 32,
+										"x": 33,
 										"y": 137,
-										"width": 109,
+										"width": 107,
 										"height": 85
 									}
 								},
@@ -3446,7 +3472,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 41,
 							"y": 1183,
-							"width": 433,
+							"width": 423,
 							"height": 30
 						},
 						"visible": true,
@@ -3466,7 +3492,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 							"frame": {
 								"x": 41,
 								"y": 1183,
-								"width": 433,
+								"width": 423,
 								"height": 30
 							}
 						},
@@ -3809,7 +3835,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 35,
 							"y": 89,
-							"width": 425,
+							"width": 424,
 							"height": 64
 						},
 						"visible": true,
@@ -3829,7 +3855,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 							"frame": {
 								"x": 35,
 								"y": 89,
-								"width": 425,
+								"width": 424,
 								"height": 64
 							}
 						},
@@ -3844,7 +3870,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 						"layerFrame": {
 							"x": 36,
 							"y": 199,
-							"width": 508,
+							"width": 497,
 							"height": 31
 						},
 						"visible": true,
@@ -3864,7 +3890,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 							"frame": {
 								"x": 36,
 								"y": 199,
-								"width": 508,
+								"width": 497,
 								"height": 31
 							}
 						},
@@ -5099,7 +5125,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"layerFrame": {
 					"x": 420,
 					"y": 695,
-					"width": 114,
+					"width": 113,
 					"height": 44
 				},
 				"visible": true,
@@ -5111,7 +5137,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 					"frame": {
 						"x": 420,
 						"y": 695,
-						"width": 114,
+						"width": 113,
 						"height": 44
 					}
 				},
@@ -5154,7 +5180,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"layerFrame": {
 					"x": 208,
 					"y": 695,
-					"width": 129,
+					"width": 127,
 					"height": 44
 				},
 				"visible": true,
@@ -5166,7 +5192,7 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 					"frame": {
 						"x": 208,
 						"y": 695,
-						"width": 129,
+						"width": 127,
 						"height": 44
 					}
 				},
@@ -6237,9 +6263,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Title 2",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 107,
+					"x": 111,
 					"y": 286,
-					"width": 525,
+					"width": 517,
 					"height": 102
 				},
 				"visible": true,
@@ -6257,9 +6283,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Title_2-rta1mtlc.png",
 					"frame": {
-						"x": 107,
+						"x": 111,
 						"y": 286,
-						"width": 525,
+						"width": 517,
 						"height": 102
 					}
 				},
@@ -6272,9 +6298,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Title 1",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 125,
+					"x": 126,
 					"y": 163,
-					"width": 488,
+					"width": 486,
 					"height": 54
 				},
 				"visible": true,
@@ -6292,9 +6318,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Title_1-qjjcn0yw.png",
 					"frame": {
-						"x": 125,
+						"x": 126,
 						"y": 163,
-						"width": 488,
+						"width": 486,
 						"height": 54
 					}
 				},
@@ -6361,9 +6387,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Button 2",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 271,
+					"x": 274,
 					"y": 1262,
-					"width": 205,
+					"width": 200,
 					"height": 24
 				},
 				"visible": true,
@@ -6381,9 +6407,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Button_2-qzm3ney2.png",
 					"frame": {
-						"x": 271,
+						"x": 274,
 						"y": 1262,
-						"width": 205,
+						"width": 200,
 						"height": 24
 					}
 				},
@@ -6423,9 +6449,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Title",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 159,
+					"x": 165,
 					"y": 81,
-					"width": 431,
+					"width": 420,
 					"height": 126
 				},
 				"visible": true,
@@ -6435,9 +6461,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Title-rkq2qziy.png",
 					"frame": {
-						"x": 159,
+						"x": 165,
 						"y": 81,
-						"width": 431,
+						"width": 420,
 						"height": 126
 					}
 				},
@@ -6963,9 +6989,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Blurb 3",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 202,
+					"x": 210,
 					"y": 893,
-					"width": 360,
+					"width": 352,
 					"height": 24
 				},
 				"visible": true,
@@ -6983,9 +7009,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Blurb_3-mei0nkzb.png",
 					"frame": {
-						"x": 202,
+						"x": 210,
 						"y": 893,
-						"width": 360,
+						"width": 352,
 						"height": 24
 					}
 				},
@@ -7025,9 +7051,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Title",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 159,
+					"x": 165,
 					"y": 81,
-					"width": 431,
+					"width": 420,
 					"height": 126
 				},
 				"visible": true,
@@ -7037,9 +7063,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Title-njq3qzex.png",
 					"frame": {
-						"x": 159,
+						"x": 165,
 						"y": 81,
-						"width": 431,
+						"width": 420,
 						"height": 126
 					}
 				},
@@ -7234,9 +7260,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Blurb2",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 179,
+					"x": 183,
 					"y": 894,
-					"width": 393,
+					"width": 385,
 					"height": 28
 				},
 				"visible": true,
@@ -7254,9 +7280,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Blurb2-ntc3qtfe.png",
 					"frame": {
-						"x": 179,
+						"x": 183,
 						"y": 894,
-						"width": 393,
+						"width": 385,
 						"height": 28
 					}
 				},
@@ -7350,9 +7376,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"originalName": "Blurb1",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 202,
+					"x": 205,
 					"y": 894,
-					"width": 343,
+					"width": 337,
 					"height": 24
 				},
 				"visible": true,
@@ -7370,9 +7396,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-Blurb1-qzq0njc2.png",
 					"frame": {
-						"x": 202,
+						"x": 205,
 						"y": 894,
-						"width": 343,
+						"width": 337,
 						"height": 24
 					}
 				},
@@ -7709,9 +7735,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"originalName": "MyFitnessPal",
 										"maskFrame": null,
 										"layerFrame": {
-											"x": 285,
+											"x": 287,
 											"y": 415,
-											"width": 181,
+											"width": 177,
 											"height": 176
 										},
 										"visible": true,
@@ -7721,9 +7747,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-MyFitnessPal-mdneoum4.png",
 											"frame": {
-												"x": 285,
+												"x": 287,
 												"y": 415,
-												"width": 181,
+												"width": 177,
 												"height": 176
 											}
 										},
@@ -7736,9 +7762,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"originalName": "NutritionUp",
 										"maskFrame": null,
 										"layerFrame": {
-											"x": 101,
+											"x": 103,
 											"y": 415,
-											"width": 163,
+											"width": 159,
 											"height": 175
 										},
 										"visible": true,
@@ -7748,9 +7774,9 @@ window.__imported__["Screens- for David (1)@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-NutritionUp-ntu5rtzb.png",
 											"frame": {
-												"x": 101,
+												"x": 103,
 												"y": 415,
-												"width": 163,
+												"width": 159,
 												"height": 175
 											}
 										},
